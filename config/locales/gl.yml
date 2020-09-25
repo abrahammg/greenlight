@@ -310,8 +310,11 @@ gl:
     search:
       start: Comezar a busca…
   landing:
-    about: "%{href} é unha interface sinxela para o servidor de conferencia web de código aberto BigBlueButton. Pode crear as súas propias salas para acoller sesións ou unirse a outras usando unha ligazón curta e cómoda."
-    welcome: Benvido/a a BigBlueButton.
+    about: "Seminar é a contorna de videoconferencias e seminarios web do CESGA. Para participar nunha sesión so necesita que o seu anfitrión/a lle proporcione a ligazón da sala e a contrasinal da mesma."
+    about1: "Seminar é a contorna de videoconferencias e seminarios web do CESGA. Para participar nunha sesión so necesita que o seu anfitrión/a lle proporcione a ligazón da sala e a contrasinal da mesma."
+    about2: "Se xa é un usuario/a de Seminar e esqueceu os seus datos, por favor pulse %{href}"
+    about3: "Se desexa máis información sobre o CESGA, as nosas actividades en e-learning, Computación, Comunicacións u outras áreas, por favor, visite a nosa %{href}"
+    welcome: Benvido/a ao Seminar.
     video: Vexa o noso titorial sobre como usar Greenlight
     upgrade: Amósame como actualizar á versión 2.0!
     version: "Temos publicada unha nova versión de Greenlight, mais a súa base de datos non é compatíbel."

@@ -311,8 +311,11 @@ en:
     search:
       start: Start searching...
   landing:
-    about: "%{href} is a simple front-end for your BigBlueButton open-source web conferencing server. You can create your own rooms to host sessions, or join others using a short and convenient link."
-    welcome: Welcome to BigBlueButton.
+    about: "Seminar is the CESGA environment for videoconferences and webinars. To participate in a session you only need your host to provide you with the link to the room and the password for it."
+    about1: "Seminar is the CESGA environment for videoconferences and webinars. To participate in a session you only need your host to provide you with the link to the room and the password for it."
+    about2: "If you are already a Seminar user and forgot your details, please press %{href}"
+    about3: "If you want more information about CESGA, our activities in e-learning, Computing, Communications or other areas, please visit our %{href}"
+    welcome: Welcome to Seminar.
     video: Watch our tutorial on using Greenlight
     upgrade: Show me how to upgrade to 2.0!
     version: We've released a new version of Greenlight, but your database isn't compatible.

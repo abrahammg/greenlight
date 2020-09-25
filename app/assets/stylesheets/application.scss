@@ -187,3 +187,25 @@ table {
 .btn i {
   transition: all .15s;
 }
+
+/* custom CESGA css */                                                                               
+.cesga_homeBackground{                                                                               
+  background: url(http://e-learning.cesga.es/wp-content/uploads/2020/09/bg.jpg);
+  background-repeat: no-repeat;                                                                             
+  background-size: cover;                                                                                   
+  color: #F5F7FB;                                                                                           
+}       
+
+.cesga_homeBackground a{
+  color: lightblue !important
+}
+                                                                                                            
+.header-brand-img{                                                                                          
+  height: 3rem !important                                                                                   
+}     
+
+.flex{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
